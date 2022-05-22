@@ -2,7 +2,6 @@
 * This is an Online Furniture Shopping Web Application where user can purchase variety of Furnitures. User can check different furnitures like sofas, dinning table, beds, chairs, recliners etc and then checkout to purchase.
 * User can view details of each item along with the price, they can add items to cart and can also check total price of items.
 * User can login using Google or Facebook or they can signup manually using OTP verification to place an order.
-* Currently, this is under development and new features will be added.
 
 
 ## Tools and Technologies used:
